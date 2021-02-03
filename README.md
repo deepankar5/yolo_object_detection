@@ -16,7 +16,10 @@ The COCO dataset consists of 80 labels, including, but not limited to:
 - Kitchen and dining objects, such as wine glasses, cups, forks, knives, spoons, etc.
 …and much more!
 
-- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. These were trained by the <a href="https://pjreddie.com/darknet/yolo/" target="_blank"> <b>Darknet team.</b> </a>
+## Save the yolo-coco into you root directory, this contained trained weigts, which was unable to uploaded because of the size was large 
+- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. <a href="https://drive.google.com/drive/folders/1z3fXDMfzOCIKXxnVdvkHsPcb3HO5TmRK?usp=sharing target="_blank"> <b>Download.</b> </a>
+
+
 
 ## YOLO object detection in images
 
