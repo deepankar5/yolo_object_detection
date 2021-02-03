@@ -17,7 +17,7 @@ The COCO dataset consists of 80 labels, including, but not limited to:
 …and much more!
 
 ## Save the yolo-coco into you root directory, this contained trained weigts, which was unable to uploaded because of the size was large 
-- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. <a href="https://drive.google.com/drive/folders/1z3fXDMfzOCIKXxnVdvkHsPcb3HO5TmRK?usp=sharing target="_blank"> <b>Download.</b> </a>
+- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files.<a href="https://drive.google.com/drive/folders/1z3fXDMfzOCIKXxnVdvkHsPcb3HO5TmRK?usp=sharing target="_blank"><b>Download</b> </a>
 
 
 
